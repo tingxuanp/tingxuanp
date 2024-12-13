@@ -3,13 +3,13 @@
 
 ### 🌱 I’m currently learning...
 - Machine Learning
+- Implementing (simple versions of) cool mathematical models 
 - SQL
 - Backend Development
 
 ### 📚 Academic Background
 - Strong foundation and interest in mathematics and algorithms
 - Proficient in Java, Javascript, Python, R and C
-- Experience with version control using Git
 
 ### 📫 How to reach me 
 - **pehtingxuan@u.nus.edu**
