@@ -4,11 +4,11 @@
 ### 🌱 I’m currently learning...
 - Machine Learning
 - Implementing (simple versions of) cool mathematical models 
-- SQL
 - Backend Development
 
 ### 📚 Academic Background
-- Strong foundation and interest in mathematics and algorithms
+- Strong interest in mathematics and algorithms
+- Experience in FullStack Development
 - Proficient in Java, Javascript, Python, R and C
 
 ### 📫 How to reach me 
