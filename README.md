@@ -3,13 +3,13 @@
 
 ### 🌱 I’m currently learning...
 - Machine Learning
-- Implementing (simple versions of) cool mathematical models 
 - Backend Development
 
 ### 📚 Academic Background
 - Strong interest in mathematics and algorithms
 - Experience in FullStack Development
 - Proficient in Java, Javascript, Python, R and C
+
 
 ### 📫 How to reach me 
 - **pehtingxuan@u.nus.edu**
