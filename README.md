@@ -10,10 +10,6 @@
 - Experience in FullStack Development
 - Proficient in Java, Javascript, Python, R and C
 
-
-### 📫 How to reach me 
-- **pehtingxuan@u.nus.edu**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pehtingxuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pehtingxuan" height="30" width="40" /></a>
