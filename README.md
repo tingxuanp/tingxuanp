@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ting Xuan</h1>
-<h3 align="center">A sophomore Computer Science and Statistics student at the National University of Singapore</h3>
+<h3 align="center">A Computer Science and Statistics student at the National University of Singapore</h3>
 
 ### 🌱 I’m currently learning...
 - Machine Learning
